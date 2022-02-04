@@ -69,6 +69,27 @@
       "alamat": "Mojokerto",
       "umur": 18,
       "email": "ainur@gmail.com"
+    },
+    {
+      "id": 11,
+      "nama": "adji",
+      "alamat": "Madiun",
+      "umur": 19,
+      "email": "adji@gmail.com"
+    },
+    {
+      "id": 12,
+      "nama": "ananda",
+      "alamat": "Lamongan",
+      "umur": 20,
+      "email": "ananda@gmail.com"
+    },
+    {
+      "id": 13,
+      "nama": "ishaq",
+      "alamat": "Nganjuk",
+      "umur": 19,
+      "email": "ishaq@gmail.com"
     }
   ]
 
