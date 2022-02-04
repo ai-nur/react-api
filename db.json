@@ -13,7 +13,65 @@
       "alamat": "Jombang",
       "umur": 18,
       "email": "amin@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "antoni",
+      "alamat": "Malang",
+      "umur": 18,
+      "email": "antoni@gmail.com"
+    },
+    {
+        "id": 4,
+        "nama": "putri",
+        "alamat": "Blitar",
+        "umur": 18,
+        "email": "putri@gmail.com"
+    },
+    {
+      "id": 5,
+      "nama": "alwi",
+      "alamat": "Kediri",
+      "umur": 19,
+      "email": "alwi@gmail.com"
+    },
+    {
+      "id": 6,
+      "nama": "ulil",
+      "alamat": "Temanggung",
+      "umur": 18,
+      "email": "ulil@gmail.com"
+    },
+    {
+      "id": 7,
+      "nama": "amel",
+      "alamat": "Tegal",
+      "umur": 18,
+      "email": "amel@gmail.com"
+    },
+    {
+      "id": 8,
+      "nama": "wildan",
+      "alamat": "Bekasi",
+      "umur": 19,
+      "email": "wildan@gmail.com"
+    },
+    {
+      "id": 9,
+      "nama": "firdaus",
+      "alamat": "Jakarta",
+      "umur": 19,
+      "email": "firdaus@gmail.com"
+    },
+    {
+      "id": 10,
+      "nama": "ainur",
+      "alamat": "Mojokerto",
+      "umur": 18,
+      "email": "ainur@gmail.com"
     }
   ]
-  
+
 }
+
+
