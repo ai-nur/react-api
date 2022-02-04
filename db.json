@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "ayyub",
+      "alamat": "Jombang",
+      "umur": 19,
+      "email": "ayyub@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "amin",
+      "alamat": "Jombang",
+      "umur": 18,
+      "email": "amin@gmail.com"
+    }
+  ]
+  
+}
